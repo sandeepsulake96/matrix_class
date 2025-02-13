@@ -1,1 +1,1 @@
-Python code to implement matrix class and related matrix operations
+Code to implement matrix class and related matrix operations in Python and C++
